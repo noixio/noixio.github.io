@@ -29,3 +29,4 @@ Echantillon 5 :
 2 souches dans les échantillons 5 repiquer dans le milieu LB sans Pb
 				5.1 dans le 10 mM Pb (prometteur)
 				5.2 dans le 15 mM Pb
+incubage à 30 degrés
