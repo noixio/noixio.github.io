@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noix.io</title>
+    <description>Noix.io
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 17 Apr 2015 22:14:46 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2015 22:14:46 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Lab Report 4</title>
+        <description>&lt;p&gt;&lt;strong&gt;UNIGE - Clément Drévo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Comptage des colonnies sur les cultures du 10 et 11 avril 2015&lt;/p&gt;
+
+&lt;h2 id=&quot;milieu-pseudosel&quot;&gt;Milieu pseudosel&lt;/h2&gt;
+
+&lt;p&gt;Echantillon 2 (control)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;				- Solution mère : 31
+				- Solution 10-1 : 6
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Echantillon 5 (présence de plomb)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;				- Solution mère : 0
+				- Solution 10-1 : 0
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;milieu-lb&quot;&gt;Milieu Lb&lt;/h2&gt;
+
+&lt;p&gt;Echantillon 2 (control)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;				- Lb 0mM Pb : non déterminé
+				- Lb 2mM Pb : non déterminé
+				- Lb 4mM Pb : non déterminé
+				- Lb 6mM Pb : non déterminé
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Echantillon 5 (présence de plomb)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;				- Lb 0mM Pb : 92
+				- Lb 2mM Pb : 47
+				- Lb 4mM Pb : 44
+				- Lb 6mM Pb : 39
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Calcul CFU&lt;/p&gt;
+
+&lt;h2 id=&quot;milieu-pca&quot;&gt;Milieu PCA&lt;/h2&gt;
+
+&lt;p&gt;210 bactérie au mL&lt;/p&gt;
+
+&lt;p&gt;Echantillon 2 (control)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;				- 10-1 : 60
+				- 10-2 : 44
+				- 10-3 : 9
+				- 10-4 : 3
+				- 10-5 : 3
+				- 10-6 : 0
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Echantillon 5 (présence de plomb)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;				- 10-1 : 5
+				- 10-2 : 2
+				- 10-3 : 0
+				- 10-4 : 0
+				- 10-5 : 1
+				- 10-6 : 0
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Mon, 13 Apr 2015 14:25:25 +0200</pubDate>
+        <link>http://yourdomain.com/lab/report/2015/04/13/labreport-4.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/lab/report/2015/04/13/labreport-4.html</guid>
+        
+        
+        <category>lab</category>
+        
+        <category>report</category>
+        
+      </item>
+    
+      <item>
+        <title>Lab Report 3</title>
+        <description>&lt;p&gt;&lt;strong&gt;UNIGE - Karl Perron&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Scan des boites du 09-04
+Suspension des échantillons 2 (control) et 5 (présence de plomb)&lt;/p&gt;
+
+&lt;p&gt;Etalage solution mère (100 micro litre) et 10-1, pour les  échantillons 2 et 5
+Etalage solution mère (100 micro libre)sur LB à différente concentration de Pb(No3)2 :
+					- 0 mM
+					- 2 mM
+					- 4 mM
+					- 6 mM&lt;/p&gt;
+
+&lt;p&gt;Les boites ont été mis sous incubateur à 30 degrès&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Apr 2015 14:25:25 +0200</pubDate>
+        <link>http://yourdomain.com/lab/report/2015/04/11/labreport-3.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/lab/report/2015/04/11/labreport-3.html</guid>
+        
+        
+        <category>lab</category>
+        
+        <category>report</category>
+        
+      </item>
+    
+      <item>
+        <title>Lab Report 2</title>
+        <description>&lt;p&gt;&lt;strong&gt;UNIGE - Karl Perron&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Etalage de la solution mère (1g de terre pour 10ml d’eau) et de la dillution 10-6
+Pour échantillon 2 (control) et 5 (présence de plomb)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2015 14:25:25 +0200</pubDate>
+        <link>http://yourdomain.com/lab/report/2015/04/10/labreport-2.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/lab/report/2015/04/10/labreport-2.html</guid>
+        
+        
+        <category>lab</category>
+        
+        <category>report</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Report 1</title>
+        <description>&lt;p&gt;&lt;strong&gt;Stand cantonale de tir de Bernex&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;le-stand-de-tir&quot;&gt;Le stand de tir&lt;/h1&gt;
+&lt;p&gt;3 champs de tir : 25m 50m et 300m
+25 et 50 tir debout avec pistolet
+300 tir couché
+Récupération du plomb depuis 4 ans (loi suisse sur l’obligation de la récupération du plomb), le récupérateur de plomb n’est pas assez large pour récupérer la totalité des tirs
+La but d’impact (qui n’a jamais été dépollué) contient à priori du plomb, quantité de tir finisse dedans actuellement (tir ratés)&lt;/p&gt;
+
+&lt;h1 id=&quot;arme-utilis-sur-le-stand-de-tir&quot;&gt;Arme utilisé sur le stand de tir&lt;/h1&gt;
+&lt;p&gt;Arme d’ordonnance de l’armée suisse
+		- SIG 220, 226, 2010
+		- 22 Long Rifle
+		- 38 Magnum
+Balles utilisés
+		- 9mm
+		- 7.65 mm
+		- 38 mm
+	fournisseur HYBAG&lt;/p&gt;
+
+&lt;h1 id=&quot;echantillons&quot;&gt;Echantillons&lt;/h1&gt;
+&lt;p&gt;Matériels utilisés :
+		- tube Falcon 50 mm
+		- cuillière desinfectée à l’alcool entre chaque échantillon
+5 échantillons sur le stand de 25 m
+		- échantillons 1 : devant le pas de tir
+		- échantillons 2 : controle : milieu du stand
+		- échantillons 3 : devant les cibles
+		- échantillons 4 : but derrière les cibles (gauche)
+		- échantillons 5 : but derrières les cibles (droite)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Apr 2015 14:25:25 +0200</pubDate>
+        <link>http://yourdomain.com/sample/report/2015/04/09/sample-report-1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/sample/report/2015/04/09/sample-report-1.html</guid>
+        
+        
+        <category>sample</category>
+        
+        <category>report</category>
+        
+      </item>
+    
+      <item>
+        <title>Lab Report 1</title>
+        <description>&lt;p&gt;&lt;strong&gt;UNIGE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;milieu&quot;&gt;Milieu&lt;/h1&gt;
+&lt;p&gt;5 milieux :
+	PCA :
+	TSA :
+	TSA + 0,1 mM de nitrate de plomb (NO3)2 :
+	TSA + 2 mM de nitrate de plomb (NO3)2 :
+	Pseudosel (milieu selectif pour pseudomonase) :&lt;/p&gt;
+
+&lt;h1 id=&quot;suspension&quot;&gt;Suspension&lt;/h1&gt;
+&lt;p&gt;Sélection de deux échantillons :
+		- échantillons 2 pour le controlle
+		- échantillons 5 qui devrait être l’échantillons le plus concentré en plomb
+1 gr de terre de chaque échantillons + 10 ml d’eau physiologique
+15 min d’agitation
+2 min à la centrifugeuse&lt;/p&gt;
+
+&lt;h1 id=&quot;dilution&quot;&gt;Dilution&lt;/h1&gt;
+&lt;p&gt;6 dillutions pour chaque échantillons (2 et 5) :
+		- 10-1 : 100 microL de la suspension + 900 microL d’eau physiologique
+		- 10-2 : 100 microL de 10-1 + 900 microL d’eau physiologique
+		- 10-3 : 100 microL de 10-2 + 900 microL d’eau physiologique
+		- 10-4 : 100 microL de 10-3 + 900 microL d’eau physiologique
+		- 10-5 : 100 microL de 10-4 + 900 microL d’eau physiologique
+		- 10-6 : 100 microL de 10-5 + 900 microL d’eau physiologique&lt;/p&gt;
+
+&lt;h1 id=&quot;etalage&quot;&gt;Etalage&lt;/h1&gt;
+
+&lt;p&gt;6 plaques pour chaque millieux et chaque échantillons&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Apr 2015 14:25:25 +0200</pubDate>
+        <link>http://yourdomain.com/lab/report/2015/04/09/labreport-1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/lab/report/2015/04/09/labreport-1.html</guid>
+        
+        
+        <category>lab</category>
+        
+        <category>report</category>
+        
+      </item>
+    
+  </channel>
+</rss>
