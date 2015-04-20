@@ -1,6 +1,0 @@
----
-layout: post
-title:  "Lab Report 7"
-date:   2015-04-17 12:25:25
-categories: lab report
----
